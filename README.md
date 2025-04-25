@@ -16,7 +16,7 @@ Este projeto implementa uma estrutura de dados em linguagem C utilizando ponteir
 - Tipos Abstratos de Dados (TAD)
 - Alocação dinâmica de memória
 - Visual Studio / GCC
-- Ferramenta Deleaker (para análise de vazamento de memória)
+- Ferramenta DrMemory (para análise de vazamento de memória)
 
 ## 📂 Estrutura do Projeto
 
